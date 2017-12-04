@@ -10,6 +10,7 @@ namespace GitGud
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dies ist eine Nachricht!");
         }
     }
 }
