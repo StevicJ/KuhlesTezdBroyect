@@ -1,1 +1,2 @@
 C:\Users\2chit\KuhlesTezdBroyect\GitGud\GitGud\bin\Debug\GitGud.exe.config
+C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\bin\Debug\GitGud.exe.config
