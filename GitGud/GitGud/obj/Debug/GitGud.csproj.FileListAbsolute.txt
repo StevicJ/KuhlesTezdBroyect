@@ -1,2 +1,7 @@
 C:\Users\2chit\KuhlesTezdBroyect\GitGud\GitGud\bin\Debug\GitGud.exe.config
 C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\bin\Debug\GitGud.exe.config
+C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\bin\Debug\GitGud.exe
+C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\bin\Debug\GitGud.pdb
+C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\obj\Debug\GitGud.csprojResolveAssemblyReference.cache
+C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\obj\Debug\GitGud.exe
+C:\Users\2chit\Source\Repos\KuhlesTezdBroyect\GitGud\GitGud\obj\Debug\GitGud.pdb

@@ -11,7 +11,11 @@ namespace GitGud
         static void Main(string[] args)
         {
             //KuhlesCumennt
-
+            int i = 8;
+            while (i==8)
+            { 
+            Console.Write("Git gud   ");
+        }
         }
     }
 }
